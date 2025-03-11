@@ -1,2 +1,2 @@
 # Estudos-e-projetos-HTML5-e-CSS3
-aqui está apenas o read me e configurações do meu perfil
+#Olá aqui eu vou deixar alguns projetos utilizados também para fins educacionais,exemplos e minha evolução em HTML5 e CSS3
